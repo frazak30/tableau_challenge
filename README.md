@@ -32,14 +32,18 @@ However, while the data has been regularly updated, the team has yet to implemen
 **The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
 
 * How many trips have been recorded total during the chosen period?
+![Citi-Bikes](Images/ridership.png)
 
 * By what percentage has total ridership grown?
 
 * How has the proportion of short-term customers and annual subscribers changed?
 
 * What are the peak hours in which bikes are used during summer months?
+![Citi-Bikes](Images/summer.png)
+
 
 * What are the peak hours in which bikes are used during winter months?
+![Citi-Bikes](Images/winter.png)
 
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
@@ -48,6 +52,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
 * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+![Citi-Bikes](Images/stationusage.png)
 
 * Today, what is the gender breakdown of active participants (Male v. Female)?
 
@@ -60,6 +65,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
 * How variable is the utilization by bike ID?
+![Citi-Bikes](Images/agerangebikerepair.png)
+
 
 **Next, as a chronic over-achiever:**
 
@@ -70,9 +77,11 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * **Basic:** A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
+
 * **Advanced:** A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 
 * The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
+![Citi-Bikes](Images/static map.png)
 
 **Finally, create your final presentation**
 
@@ -140,4 +149,4 @@ Your final product will be assessed on the following metrics:
 
 ### Copyright
 
-Data Boot Camp (C) 2019. All Rights Reserved.
+Data Boot Camp (C) 2020. All Rights Reserved. Firzana Razak
