@@ -81,7 +81,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 * **Advanced:** A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 
 * The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
-![Citi-Bikes](Images/static map.png)
+![Citi-Bikes](Images/staticmap.png)
 
 **Finally, create your final presentation**
 
